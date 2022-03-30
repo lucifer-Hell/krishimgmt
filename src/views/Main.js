@@ -1,10 +1,13 @@
-import { InputBox } from "../components/InputBox/InputBox"
-import { ListItem } from "../components/ListItem/ListItem"
+
+import { Form } from "./Form/Form"
+import { FormMui } from "./FormMui/FormMui"
 
 export const Main=()=>{
     return (
-        <div>
-          <InputBox />
-        </div>
+      <div>
+          <Form />
+          <FormMui />
+      </div>
+      
     )
 }
