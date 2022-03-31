@@ -2,6 +2,10 @@
 
 https://www.figma.com/file/k3CQf9W8KqJM0udZRg1C25/KrishiMgmt-Design?node-id=0%3A1
 
+# current website-dev
+
+https://lucifer-hell.github.io/krishimgmt/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
