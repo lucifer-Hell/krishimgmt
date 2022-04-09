@@ -5,13 +5,12 @@ import Input from '@mui/material/Input';
 import DownloadIcon from '@mui/icons-material/Download';
 export const FormMui=()=>{
     return (
-        <Box m={2}>
+        <Box m={2} maxWidth={"70%"}>
          <AppBar position="static" style={{"backgroundColor":"#F3C5E6","color":"black",borderRadius:" 26px 4px 4px 4px",display:"flex",flexDirection:"row"}}>
 
                          <Typography variant="text" component="div" sx={{marginRight:"auto",padding:"0.6em",fontWeight:"medium",display:"inline-block"}}>
                             Search
                         </Typography>
-           
                         <IconButton  fontSize="small" style={{"backgroundColor":"#F946C6",margin:".4em","marginRight":".4em"}}>
                             <SearchIcon fontSize="small" sx={{color:"white"}}  />
                         </IconButton>
