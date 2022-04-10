@@ -1,9 +1,0 @@
-.TitleBar {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  width: 90%;
-  background: #f3c5e6;
-  border-radius: 26px 4px 4px 4px;
-  padding-left: 10%;
-}

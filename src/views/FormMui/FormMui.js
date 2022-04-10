@@ -31,9 +31,7 @@ export const FormMui=()=>{
                     }
                  />   
              </Box>
-
-           
-             <Card variant="outlined" sx={{width:"70%",margin:"1em",display:"flex",justifyContent:"space-between",backgroundColor:"#E1F0DC",borderRadius:"21px",boxShadow:3}}>
+             <Card variant="outlined" sx={{width:"70%",margin:"1em",display:"flex",justifyContent:"space-between",backgroundColor:"#E1F0DC",borderRadius:"21px",boxShadow:3,overflowX:"scroll"}}>
                  <Typography component="span" variant="h6" style={{margin:"0.2em",marginLeft:"0.8em",padding:"0.2em"}}>
                     Bitter Gourd - vidhi ke upyog hetupokkopkpo pokpo pokpok pokpok pokpok
                  </Typography>
@@ -49,7 +47,7 @@ export const FormMui=()=>{
                  
 
              </Card>
-             <Card variant="outlined" sx={{width:"70%",margin:"1em",display:"flex",justifyContent:"space-between",backgroundColor:"#E1F0DC",borderRadius:"21px",boxShadow:3}}>
+             <Card variant="outlined" sx={{width:"70%",margin:"1em",display:"flex",justifyContent:"space-between",backgroundColor:"#E1F0DC",borderRadius:"21px",boxShadow:3,overflowX:"scroll"}}>
                  <Typography component="span" variant="h6" style={{margin:"0.2em",marginLeft:"0.8em",padding:"0.2em"}}>
                     Bitter Gourd - vidhi ke upyog hetupokkopkpo pokpo pokpok pokpok pokpok
                  </Typography>
@@ -65,7 +63,7 @@ export const FormMui=()=>{
                  
 
              </Card>
-             <Card variant="outlined" sx={{width:"70%",margin:"1em",display:"flex",justifyContent:"space-between",backgroundColor:"#E1F0DC",borderRadius:"21px",boxShadow:3}}>
+             <Card variant="outlined" sx={{width:"70%",margin:"1em",display:"flex",justifyContent:"space-between",backgroundColor:"#E1F0DC",borderRadius:"21px",boxShadow:3,overflowX:"scroll"}}>
                  <Typography component="span" variant="h6" style={{margin:"0.2em",marginLeft:"0.8em",padding:"0.2em"}}>
                     Bitter Gourd - vidhi ke upyog hetupokkopkpo pokpo pokpok pokpok pokpok
                  </Typography>
