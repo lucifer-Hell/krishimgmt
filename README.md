@@ -1,3 +1,7 @@
+# For redploying
+
+npm run build
+
 # Figma Link for desgin
 
 https://www.figma.com/file/k3CQf9W8KqJM0udZRg1C25/KrishiMgmt-Design?node-id=0%3A1
